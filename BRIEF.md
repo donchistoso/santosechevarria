@@ -15,9 +15,8 @@ Nothing has been sent to anyone. Nothing is live.
 - **LinkedIn** (`linkedin/`) — copy is written for every field. The account
   itself doesn't exist; Santos has to create it.
 - **Cover letter — THE COLLECTION** (`cover-letters/the-collection-fi-manager.md`)
-  — draft **v2**, rewritten against the full posting text. Concedes the luxury
-  gap in the opening body paragraph, then mirrors the posting's own three
-  section headings. **Needs his review before submission.**
+  — draft **v3**, strengths-only, mapped to the posting's own three section
+  headings. **Needs his review before submission.**
 
 - **Exports** — both variants rendered to one-page PDFs in `exports/`. Build
   with `./_build/build.sh`. These are sendable as-is once Santos signs off.
@@ -27,18 +26,15 @@ Nothing has been sent to anyone. Nothing is live.
 required. Not yet submitted. Full posting + fit analysis is in
 `_source/postings/the-collection-fi-manager.md`.
 
-⚠️ **The posting states a hard minimum of 5 years of luxury automotive F&I
-experience. Santos has none.** He meets or exceeds essentially everything
-else. Letter draft v2 concedes the gap in its first body paragraph and spends
-the rest of the page making the override case, structured against the
-posting's own three section headings. Realistically this is a long shot
-through the front door — worth sending, but the network is the better path.
+Letter draft **v3** is strengths-only. The posting's five-year luxury minimum
+is deliberately not addressed in writing — Santos handles it in the interview
+if it comes up, and his store does carry high-line units. The letter opens on
+the 33-year record, mirrors the posting's three section headings, and leans on
+manufacturer-verified award numbers.
 
-**Before it goes:** Santos reads and owns the luxury framing; confirm he's
-actually available for evenings/weekends/holidays/events (the letter asserts
-it); and ask him the four unclaimed items — CRM, external audits, internal
-compliance reviews, any high-net-worth exposure. Any of those changes the
-letter.
+**Before it goes:** Santos reads it; confirm he's available for
+evenings/weekends/holidays/events (the letter asserts it); prep his answer for
+the luxury-experience question, since it will now come up live.
 
 ## Parked
 - DOCX export. Only needed if a posting's ATS refuses PDF.

@@ -16,6 +16,8 @@ in a deliverable.
 - 1998 – Present (~28 years)
 - Supported a sales team of 15
 - Systems used daily: CDK, DealerTrack, Reynolds & Reynolds
+- Store inventory includes high-end / high-line vehicles alongside volume
+  models (per Juan, 2026-09-05)
 - Scope: deal structuring, F&I product presentation and sales, lender
   relationships, compliance, sales-staff training and finance hand-off
 
@@ -68,8 +70,7 @@ profit figure appears anywhere. Santos to supply real numbers.
     Postings ask for it; currently not claimed anywhere.
 12. **Did he own formal internal F&I compliance reviews**, or keep his own
     deals clean? Different claims.
-13. **Any high-net-worth / luxury client exposure** at the Brickell or Miami
-    stores? This is the single most valuable unknown — it's the gap that
-    disqualifies him from luxury postings on paper.
+13. **High-net-worth client exposure** — store carries high-line units, so
+    there is some. Worth getting specifics from him for interview prep.
 14. **Availability** for evenings, weekends, holidays, off-site events, and
     travel. The Collection letter asserts yes. Confirm it.

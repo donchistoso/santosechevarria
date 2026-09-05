@@ -94,6 +94,17 @@ list as items 10–14.
 Full posting archived at `_source/postings/the-collection-fi-manager.md` with a
 fit analysis table.
 
+**Cover letter v3 — strengths only.** Juan's call: don't surface the luxury-
+experience gap in writing at all. Santos can address it in an interview, where
+he has room to make the case, and his store carries high-line vehicles. Both
+earlier drafts conceded it on the page; v3 removes that entirely.
+
+v3 opens on the 33-year record, keeps the posting's three section headings,
+adds a "Ready on day one" bullet, references "vehicles from entry models to
+high-line units" (truthful, and it does quietly what the concession did
+loudly), and closes on what a finance office is judged on tied to the group's
+reputation. Interview prep for that question is now a checklist item instead.
+
 **Blocked / notable.**
 - The session's GitHub App can't create repositories (403 on POST
   /user/repos). Juan has to create the empty private repo; the local repo is
