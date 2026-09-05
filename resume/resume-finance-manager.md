@@ -38,7 +38,7 @@ as a Finance Manager.
   files, submit credit applications, and process contracts accurately and
   efficiently.
 - Ensured full compliance with state and federal regulations (Truth in
-  Lending, Red Flags Rule, OFAC) across thousands of deals over a 25+ year
+  Lending, Fair Credit Reporting Act, Red Flags Rule, OFAC) across thousands of deals over a 25+ year
   tenure.
 - Mentored and trained sales staff on deal structure, compliance requirements,
   and effective customer hand-off to the finance office, contributing to
@@ -64,7 +64,7 @@ as a Finance Manager.
 ## CORE SKILLS
 
 - F&I Product Sales & Menu Presentation
-- Deal Structuring & Compliance (Truth in Lending, Red Flags Rule)
+- Deal Structuring & Compliance (TILA, FCRA, Red Flags Rule)
 - Lender & Bank Relationship Management
 - CDK, DealerTrack, Reynolds & Reynolds
 - Team Leadership & Mentoring (teams of 15+)

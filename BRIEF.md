@@ -15,20 +15,30 @@ Nothing has been sent to anyone. Nothing is live.
 - **LinkedIn** (`linkedin/`) — copy is written for every field. The account
   itself doesn't exist; Santos has to create it.
 - **Cover letter — THE COLLECTION** (`cover-letters/the-collection-fi-manager.md`)
-  — tailored to a live F&I Manager posting Santos is interested in. Coral
-  Gables luxury group, eight brands. The letter names his lack of luxury
-  experience up front and pivots to lenders, compliance, hand-off, and his
-  award record. **Draft — needs his review before submission.**
+  — draft **v2**, rewritten against the full posting text. Concedes the luxury
+  gap in the opening body paragraph, then mirrors the posting's own three
+  section headings. **Needs his review before submission.**
 
 - **Exports** — both variants rendered to one-page PDFs in `exports/`. Build
   with `./_build/build.sh`. These are sendable as-is once Santos signs off.
 
 ## Open application
-**THE COLLECTION — Finance & Insurance Manager**, Coral Gables. Applying via
-Hireology (job 2433980); a cover letter is required. Not yet submitted.
-Before it goes: Santos reads the letter, and someone confirms the exact job
-title on the live posting (the Hireology page is unreachable from the session's
-network, so the posting details came from a mirror).
+**THE COLLECTION — Finance & Insurance Manager**, Coral Gables. Cover letter
+required. Not yet submitted. Full posting + fit analysis is in
+`_source/postings/the-collection-fi-manager.md`.
+
+⚠️ **The posting states a hard minimum of 5 years of luxury automotive F&I
+experience. Santos has none.** He meets or exceeds essentially everything
+else. Letter draft v2 concedes the gap in its first body paragraph and spends
+the rest of the page making the override case, structured against the
+posting's own three section headings. Realistically this is a long shot
+through the front door — worth sending, but the network is the better path.
+
+**Before it goes:** Santos reads and owns the luxury framing; confirm he's
+actually available for evenings/weekends/holidays/events (the letter asserts
+it); and ask him the four unclaimed items — CRM, external audits, internal
+compliance reviews, any high-net-worth exposure. Any of those changes the
+letter.
 
 ## Parked
 - DOCX export. Only needed if a posting's ATS refuses PDF.

@@ -62,3 +62,14 @@ profit figure appears anywhere. Santos to supply real numbers.
 7. Reason for the move (growth, comp, ownership change) — shapes the letter.
 8. Does he want to stay Nissan/Honda-brand, or brand-agnostic?
 9. References — who can speak for him, and is he comfortable naming them?
+10. **Which CRM has he used?** (VinSolutions, DealerSocket, eLead, Reynolds
+    Contact Management…) Luxury postings list CRM separately from DMS.
+11. **Has he sat in an external audit or regulatory compliance review?**
+    Postings ask for it; currently not claimed anywhere.
+12. **Did he own formal internal F&I compliance reviews**, or keep his own
+    deals clean? Different claims.
+13. **Any high-net-worth / luxury client exposure** at the Brickell or Miami
+    stores? This is the single most valuable unknown — it's the gap that
+    disqualifies him from luxury postings on paper.
+14. **Availability** for evenings, weekends, holidays, off-site events, and
+    travel. The Collection letter asserts yes. Confirm it.

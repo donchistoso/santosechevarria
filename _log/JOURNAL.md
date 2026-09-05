@@ -62,6 +62,38 @@ Could not read the Hireology posting directly — `careers.hireology.com` and
 came from a search-result mirror, so **the exact job title needs verifying on
 the live page before submission.**
 
+**Cover letter v2 — after reading the real posting.** Juan pasted the full job
+description from The Collection's site, which changed the problem. The posting
+states a **hard minimum of five years of luxury automotive F&I experience**;
+Santos has none. He meets or exceeds nearly everything else on the page.
+
+That reframed the letter's job: not to look qualified, but to be interesting
+enough that a human overrides a checklist. Three changes from v1:
+- The gap moved to the first body paragraph, stated plainly ("I do not have
+  it"). A screener finds it in ten seconds regardless; saying it first buys the
+  credibility to spend the page on the case.
+- The body now mirrors the posting's own three headings — F&I Operations,
+  Customer Experience, Compliance & Reporting.
+- v1's closing equated a McLaren client with a sedan client. That argues
+  against the employer's own premise, so v2 concedes luxury as a *higher* bar
+  and positions the 33 years as everything except that.
+
+Newly covered after reading the full text: FCRA by name (also added to both
+résumé variants — Red Flags is an FCRA/FACTA rule, so it's truthful), leasing
+as distinct from financing, calculating taxes/rates/fees, penetration
+reporting to manufacturer partners, credit-information handling, and explicit
+availability for evenings/weekends/holidays/off-site events — that last one
+preempts an unspoken worry about a 33-year veteran wanting to coast.
+
+Deliberately **not** claimed, because nobody has confirmed them: CRM
+proficiency (the posting lists it separately from DMS), external
+auditor/regulatory review experience, formal internal compliance-review
+ownership, and any high-net-worth client exposure. Added to the open-questions
+list as items 10–14.
+
+Full posting archived at `_source/postings/the-collection-fi-manager.md` with a
+fit analysis table.
+
 **Blocked / notable.**
 - The session's GitHub App can't create repositories (403 on POST
   /user/repos). Juan has to create the empty private repo; the local repo is

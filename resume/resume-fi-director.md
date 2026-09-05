@@ -41,8 +41,8 @@ record drive dealership gross.
   relationships across multiple banks, captives, and credit unions to hold
   approval rates and buy rates across the full credit spectrum, from prime
   through subprime.
-- Owned compliance for the department — Truth in Lending, Red Flags Rule,
-  OFAC — across thousands of funded deals with a clean record.
+- Owned compliance for the department — Truth in Lending, the Fair Credit
+  Reporting Act, Red Flags Rule, OFAC — across thousands of funded deals with a clean record.
 - Built the sales floor's finance capability: trained and mentored sales staff
   on deal structure, disclosure requirements, and finance-office hand-off,
   protecting both CSI and gross.
@@ -63,7 +63,7 @@ record drive dealership gross.
 
 - F&I Department Operations & Menu Strategy
 - Lender Portfolio & Buy-Rate Management (prime through subprime)
-- Regulatory Compliance Ownership (TILA, Red Flags Rule, OFAC)
+- Regulatory Compliance Ownership (TILA, FCRA, Red Flags, OFAC)
 - Sales-Floor Training & Finance Hand-Off Process
 - DMS Operations — CDK, DealerTrack, Reynolds & Reynolds
 - Team Leadership & Mentoring (teams of 15+)
