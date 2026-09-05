@@ -17,8 +17,11 @@ Nothing has been sent to anyone. Nothing is live.
 - **Cover letter** (`cover-letters/TEMPLATE.md`) — template only, no tailored
   letter yet (needs a real posting).
 
+- **Exports** — both variants rendered to one-page PDFs in `exports/`. Build
+  with `./_build/build.sh`. These are sendable as-is once Santos signs off.
+
 ## Parked
-- Exports (PDF/DOCX). Waiting on Santos's review of both variants.
+- DOCX export. Only needed if a posting's ATS refuses PDF.
 - Target dealership list. Empty on purpose — build it *with* Santos.
 
 ## Needs a decision / needs Santos

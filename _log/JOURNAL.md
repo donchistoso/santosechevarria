@@ -35,6 +35,16 @@ resume (two variants), cover letter, and LinkedIn profile.
 - `job-search/tracker.md`, `job-search/target-dealerships.md`
 - `exports/README.md`, `README.md`, `CLAUDE.md`
 
+**Exports.** Built an HTML+CSS render pipeline (`_build/`) instead of the prior
+session's `docx` npm approach — one shared stylesheet, rendered to PDF via
+headless Chromium, so both variants are typographically identical and
+verifiably one page. Produced:
+- `exports/Santos_Echevarria_FinanceManager_2026-09.pdf`
+- `exports/Santos_Echevarria_FIDirector_2026-09.pdf`
+
+Type scale took three passes to land both variants on exactly one page without
+a sparse bottom third. DOCX export is not built yet.
+
 **Blocked / notable.**
 - The session's GitHub App can't create repositories (403 on POST
   /user/repos). Juan has to create the empty private repo; the local repo is
