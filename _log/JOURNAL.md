@@ -45,6 +45,23 @@ verifiably one page. Produced:
 Type scale took three passes to land both variants on exactly one page without
 a sparse bottom third. DOCX export is not built yet.
 
+**Cover letter — THE COLLECTION.** Santos surfaced a live F&I Manager posting
+at THE COLLECTION (Coral Gables luxury group: Alfa Romeo, Aston Martin, Audi,
+Ferrari, Jaguar, Maserati, McLaren, Porsche). Wrote a tailored letter plus a
+matching print stylesheet (`_build/letter.css`), exported to a one-page PDF.
+
+The strategic call: his background is volume Nissan/Honda, not luxury, and a
+hiring manager at a Ferrari store will see that immediately. The letter names
+the gap in its second paragraph and pivots to what transfers — lender network,
+menu presentation graded annually by a manufacturer, sales-floor hand-off
+(which the posting itself centers), compliance, and DMS fluency. Controlling
+the framing beats hoping it goes unnoticed.
+
+Could not read the Hireology posting directly — `careers.hireology.com` and
+`lensa.com` are both egress-blocked in this environment. Description details
+came from a search-result mirror, so **the exact job title needs verifying on
+the live page before submission.**
+
 **Blocked / notable.**
 - The session's GitHub App can't create repositories (403 on POST
   /user/repos). Juan has to create the empty private repo; the local repo is

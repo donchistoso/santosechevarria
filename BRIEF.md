@@ -14,11 +14,21 @@ Nothing has been sent to anyone. Nothing is live.
   draft, unreviewed. Read the "Honest gap to close" note at the bottom.
 - **LinkedIn** (`linkedin/`) — copy is written for every field. The account
   itself doesn't exist; Santos has to create it.
-- **Cover letter** (`cover-letters/TEMPLATE.md`) — template only, no tailored
-  letter yet (needs a real posting).
+- **Cover letter — THE COLLECTION** (`cover-letters/the-collection-fi-manager.md`)
+  — tailored to a live F&I Manager posting Santos is interested in. Coral
+  Gables luxury group, eight brands. The letter names his lack of luxury
+  experience up front and pivots to lenders, compliance, hand-off, and his
+  award record. **Draft — needs his review before submission.**
 
 - **Exports** — both variants rendered to one-page PDFs in `exports/`. Build
   with `./_build/build.sh`. These are sendable as-is once Santos signs off.
+
+## Open application
+**THE COLLECTION — Finance & Insurance Manager**, Coral Gables. Applying via
+Hireology (job 2433980); a cover letter is required. Not yet submitted.
+Before it goes: Santos reads the letter, and someone confirms the exact job
+title on the live posting (the Hireology page is unreachable from the session's
+network, so the posting details came from a mirror).
 
 ## Parked
 - DOCX export. Only needed if a posting's ATS refuses PDF.

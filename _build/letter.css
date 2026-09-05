@@ -1,0 +1,45 @@
+/* Cover letter — print stylesheet. Matches the resume's navy identity. */
+
+@page { size: Letter; margin: 0.75in 0.85in; }
+
+:root { --navy: #1F3864; --ink: #1a1a1a; --muted: #444; --rule: #c9d2e2; }
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Calibri", "Carlito", "Helvetica Neue", Arial, sans-serif;
+  font-size: 10.5pt;
+  line-height: 1.4;
+  color: var(--ink);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+header { border-bottom: 1px solid var(--rule); padding-bottom: 6pt; margin-bottom: 14pt; }
+
+h1 {
+  margin: 0 0 2pt;
+  font-size: 17pt;
+  font-weight: 700;
+  letter-spacing: 1pt;
+  color: var(--navy);
+  text-transform: uppercase;
+}
+
+.contact { font-size: 9.5pt; color: var(--muted); }
+.contact .sep { color: var(--rule); padding: 0 4pt; }
+
+.meta { margin-bottom: 12pt; font-size: 10pt; line-height: 1.35; }
+.meta .date { margin-bottom: 9pt; }
+.meta .to { color: var(--ink); }
+
+p { margin: 0 0 8pt; }
+
+ul { margin: 0 0 9pt; padding-left: 15pt; }
+li { margin-bottom: 5pt; }
+li::marker { color: var(--navy); }
+li strong { color: var(--navy); }
+
+.signoff { margin-top: 14pt; }
+.signoff .name { display: block; margin-top: 16pt; font-weight: 700; color: var(--navy); }

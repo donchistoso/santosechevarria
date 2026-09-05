@@ -17,7 +17,7 @@ of searching.
 ## Candidates
 | Dealership | Group | Brand | Location | Warm contact? | Priority | Notes |
 |---|---|---|---|---|---|---|
-| | | | | | | |
+| THE COLLECTION | THE COLLECTION | Alfa Romeo, Aston Martin, Audi, Ferrari, Jaguar, Maserati, McLaren, Porsche | Coral Gables | unknown — **ask Santos** | High — active application | Luxury, not volume. His interest drove this one. |
 
 ## Where postings show up
 - Indeed / ZipRecruiter — "F&I Manager", "Finance Manager automotive", "Finance Director"
