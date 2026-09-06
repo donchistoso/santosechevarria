@@ -79,7 +79,8 @@ Sincerely,
 - [ ] Verify the exact job title on the live posting
 - [ ] Replace "Hiring Manager" with a real name if one is findable (LinkedIn,
       the group's leadership page)
-- [ ] Attach the **Finance Manager** résumé variant, not the Director one
+- [ ] Attach the **THE COLLECTION** résumé variant
+      (`exports/Santos_Echevarria_FIManager_TheCollection_2026-09.pdf`)
 - [ ] Log the submission date in `job-search/tracker.md`
 
 ## Realistic read

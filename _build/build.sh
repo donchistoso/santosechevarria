@@ -17,6 +17,7 @@ render() {
 
 render resume-finance-manager.html Santos_Echevarria_FinanceManager
 render resume-fi-director.html      Santos_Echevarria_FIDirector
+render resume-the-collection.html   Santos_Echevarria_FIManager_TheCollection
 
 # Cover letters — one per application
 render cover-the-collection.html    Santos_Echevarria_CoverLetter_TheCollection

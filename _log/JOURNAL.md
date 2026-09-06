@@ -105,6 +105,15 @@ high-line units" (truthful, and it does quietly what the concession did
 loudly), and closes on what a finance office is judged on tied to the group's
 reputation. Interview prep for that question is now a checklist item instead.
 
+**Résumé, third variant — tailored to THE COLLECTION.** Built
+`_build/resume-the-collection.html` for the application package. Retitled to
+their exact job title, reordered to their responsibility list, and rewritten in
+their vocabulary (protection plans; terms, taxes, rates and fees; secure
+handling of client credit information; FCRA by name; "clients" not
+"customers"). "Entry models to high-line units" appears in the summary and the
+first bullet. Core Skills became keyword-dense Core Competencies aimed at their
+qualifications list. One page.
+
 **Blocked / notable.**
 - The session's GitHub App can't create repositories (403 on POST
   /user/repos). Juan has to create the empty private repo; the local repo is

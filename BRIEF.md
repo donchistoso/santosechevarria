@@ -18,8 +18,11 @@ Nothing has been sent to anyone. Nothing is live.
   — draft **v3**, strengths-only, mapped to the posting's own three section
   headings. **Needs his review before submission.**
 
-- **Exports** — both variants rendered to one-page PDFs in `exports/`. Build
-  with `./_build/build.sh`. These are sendable as-is once Santos signs off.
+- **Résumé — THE COLLECTION variant** (`resume/resume-the-collection.md`) —
+  third variant, tailored to the posting's exact title, vocabulary and
+  responsibility order. This is the one that goes with the application.
+- **Exports** — all three variants rendered to one-page PDFs in `exports/`.
+  Build with `./_build/build.sh`.
 
 ## Open application
 **THE COLLECTION — Finance & Insurance Manager**, Coral Gables. Cover letter
