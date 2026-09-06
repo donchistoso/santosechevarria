@@ -17,7 +17,7 @@ Miami, FL  |  (786) 554-0173  |  santosechevarria1@gmail.com
 ## PROFESSIONAL SUMMARY
 
 Automotive finance leader with 33+ years running F&I operations at South
-Florida franchise dealerships, including 28 years with a single Nissan store.
+Florida franchise dealerships, 28 of them at Bill Seidle Nissan Auto Group.
 Owns the full finance function end to end: deal structuring and funding,
 F&I product strategy and menu presentation, lender portfolio management, and
 regulatory compliance. Built the finance discipline of a 15-person sales floor
@@ -73,7 +73,7 @@ record drive dealership gross.
 
 - Nissan Award of Excellence — 6-Time Winner
 - Nissan Security Plus Products, Platinum Level — Awarded Annually (2005–2025)
-- 28-year tenure at a single Nissan dealership
+- Retained and promoted through 28 years of ownership, management, and market cycles
 
 ---
 
