@@ -21,5 +21,23 @@ Source: phone photo, navy jacket, light blue shirt, exterior overhang
 background. Subject is against the left edge, slightly tilted, background is a
 busy peach soffit.
 
-Planned: straighten, centered square crop to head-and-shoulders, mild exposure
-and contrast lift. No retouching, no background replacement.
+Source file: `santos-headshot-original-2026-09.jpeg` (575×879, iPhone, 2016).
+
+**Applied** — `santos-headshot-linkedin-2026-09.jpg`, 800×800:
+- Crop box (10, 50, 455, 495) from the original — head-and-shoulders square.
+  The subject sits close to the left edge of the frame, so the crop is pushed
+  as far left as the original allows; a centered crop is not possible without
+  losing the ear.
+- Brightness ×1.08, contrast ×1.12, saturation ×0.92
+- White balance cooled to counter the orange cast off the peach soffit:
+  red ×0.96, blue ×1.04
+- Resized to 800×800 (Lanczos), JPEG quality 95
+
+No retouching, no background replacement, no rotation (the original is close
+enough to level that rotating would only cost resolution).
+
+**To redo the crop**, adjust the box in the recipe above and re-run against
+the original — the original is never edited in place.
+
+Rejected: a stray non-headshot image (fire/water yin-yang graphic) was
+uploaded by mistake and deleted.
