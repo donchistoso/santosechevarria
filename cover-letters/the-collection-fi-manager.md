@@ -8,7 +8,12 @@ Romeo, Aston Martin, Audi, Ferrari, Jaguar, Maserati, McLaren, Porsche.
 **Status:** Draft v2 — needs Santos's review before submission
 **Export:** `exports/Santos_Echevarria_CoverLetter_TheCollection_2026-09.pdf`
 
-## Approach (v3 — current)
+## Voice
+Rewritten 2026-09-07 into the warmer house voice — contractions, plainspoken,
+some personality. The earlier formal register read stiff. See the Voice section
+in `TEMPLATE.md`.
+
+## Approach (v4 — current)
 
 **Strengths only.** Juan's call, and it's the right one: the posting's
 five-year luxury minimum is not addressed in the letter at all. Santos can
@@ -49,19 +54,21 @@ Coral Gables, FL
 
 Dear Hiring Manager,
 
-I am writing to apply for the Finance and Insurance Manager position at THE COLLECTION. I have spent thirty years running finance offices in South Florida — twenty-eight of them at Bill Seidle Nissan Auto Group, where I have held the finance desk through changes in ownership, management, and market, and two before that at Brickell Honda. I would like to bring that record to a group that holds itself to a higher standard.
+I’d like to apply for the Finance and Insurance Manager position at THE COLLECTION.
 
-What I would bring to each part of the role as you have described it:
+I’ve spent thirty years running finance offices in South Florida — twenty-eight of them at Bill Seidle’s Nissan, where I’ve held the finance desk through changes in ownership, management, and market, and two before that at Brickell Honda. I’d like to bring that record somewhere that holds itself to a higher standard.
 
-- **Finance and insurance operations.** Thirty years structuring finance and lease deals — calculating terms, taxes, rates, and fees; presenting warranties, GAP, and protection plans; and securing approvals through lender relationships built across banks, captives, and credit unions over decades, for clients at every point on the credit spectrum and on vehicles from entry models to high-line units. Six-time winner of the Nissan Award of Excellence, and Platinum level in Nissan Security Plus products every year since 2005. Those are the manufacturer’s figures on my performance, not my own.
+Here’s what I’d bring to each part of the role as you’ve laid it out:
 
-- **Customer experience.** My market is one where whether a client comes back — and whether their family does — turns on whether they trusted the person in the finance office. I supported a fifteen-person sales team and trained them on the hand-off into my office so that transition never cost us a client’s confidence. Transparency is not a standard I would be adjusting to; it is much of why I have been kept and promoted across twenty-eight years of changing ownership and management, and why my clients have sent me their families.
+- **Finance and insurance operations.** Thirty years of structuring finance and lease deals — working the terms, taxes, rates, and fees; presenting warranties, GAP, and protection plans; and getting approvals through lender relationships I’ve built up over decades with banks, captives, and credit unions. Clients at every point on the credit spectrum, on everything from entry models to high-line units. I’m a six-time winner of the Nissan Award of Excellence and I’ve hit Platinum in Nissan Security Plus every year since 2005 — those are the manufacturer’s numbers on my work, not mine.
 
-- **Compliance and reporting.** Truth in Lending, the Fair Credit Reporting Act and the Red Flags Rule, OFAC — thousands of funded deals, clean documentation, and a clean record. I have handled client credit information under those obligations every working day for three decades, and I have accounted for my penetration and performance figures to both dealership management and a manufacturer that follows its numbers closely.
+- **Client experience.** I work in a market where whether a client comes back — and whether their family does — comes down to whether they trusted the person in the finance office. I’ve supported a fifteen-person sales team and trained them on the hand-off into my office so that moment never cost us a client’s confidence. Being straight with people isn’t a standard I’d be adjusting to; it’s most of why I’ve lasted twenty-eight years in one store and why my clients have sent me their families.
 
-- **Ready on day one.** I work in CDK, DealerTrack, and Reynolds & Reynolds daily, so there is no learning curve on your systems. I am available for evenings, weekends, holidays, and off-site events.
+- **Compliance and reporting.** Truth in Lending, the Fair Credit Reporting Act and the Red Flags Rule, OFAC — thousands of funded deals, clean paperwork, clean record. I’ve handled client credit information under those rules every working day for three decades, and I’ve answered for my penetration and performance numbers to both dealership management and a manufacturer that watches them closely.
 
-Three decades in this market have taught me what a finance office is actually judged on: whether the deal funds, whether it is clean, and whether the client leaves feeling they were dealt with straight. THE COLLECTION has built its reputation on that last part, and it is the part I have spent my career on. I would welcome the chance to sit down and go through my numbers with you.
+- **Ready on day one.** I’m in CDK, DealerTrack, and Reynolds & Reynolds daily, so there’s no learning curve on your systems. And I’m glad to work evenings, weekends, holidays, and your off-site events — that’s the business.
+
+Thirty years in this market have taught me what a finance office actually gets judged on: whether the deal funds, whether it’s clean, and whether the client walks out feeling they were dealt with straight. THE COLLECTION built its name on that last part, and it’s the part I’ve spent my career on. I’d welcome the chance to sit down and go through my numbers with you.
 
 Sincerely,
 
