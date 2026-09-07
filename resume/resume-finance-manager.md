@@ -69,6 +69,7 @@ as a Finance Manager.
 - CDK, DealerTrack, Reynolds & Reynolds
 - Team Leadership & Mentoring (teams of 15+)
 - Customer Relationship Management & Retention
+- Fully Bilingual — English & Spanish
 
 ## NOTABLE ACHIEVEMENTS & AWARDS
 

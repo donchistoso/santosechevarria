@@ -43,8 +43,9 @@ management · CDK · DealerTrack · Reynolds & Reynolds · team leadership and
 mentoring (teams of 15+) · customer relationship management and retention
 
 ## Languages
-- ⚠️ Unknown. Spanish fluency is a material advantage in the Miami dealership
-  market and belongs on the resume and LinkedIn if it applies. **Ask.**
+- **Fully bilingual, English and Spanish** (confirmed by Juan, 2026-09-07).
+  Material advantage in the Miami dealership market — now on both résumés,
+  the LinkedIn headline, About, and Languages section.
 
 ## Education / licensing
 - ⚠️ Unknown. No degree/school or Florida licensing info provided. Omitted

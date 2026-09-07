@@ -10,10 +10,10 @@ field, once the account is live.
 ## Headline (220 char max)
 
 Primary:
-> Automotive Finance Manager | 33 Years in Dealership F&I | Nissan Award of Excellence, 6× | Miami, FL
+> Automotive Finance Manager | 33 Years in Dealership F&I | Bilingual English/Spanish | Nissan Award of Excellence, 6× | Miami, FL
 
 Alternate (director-leaning):
-> F&I Leader | 33 Years Automotive Finance | Lender Relationships, Compliance & Product Penetration | South Florida
+> F&I Leader | 33 Years Automotive Finance | Bilingual English/Spanish | Lender Relationships, Compliance & Product Penetration | South Florida
 
 ## About
 
@@ -36,6 +36,8 @@ What that has looked like in practice:
 • A clean compliance record — Truth in Lending, Red Flags Rule, OFAC — across
   thousands of funded deals.
 • Day-to-day fluency in CDK, DealerTrack, and Reynolds & Reynolds.
+• Fully bilingual, English and Spanish — the majority of my clients over three
+  decades have been served in one or the other.
 
 I'm open to Finance Manager and F&I Director conversations with dealerships in
 the Miami area.
@@ -67,6 +69,10 @@ Full-time · 1990 – 1998 · Miami, Florida, United States · On-site
 > aftermarket F&I products. Maintained compliant deal documentation and
 > worked closely with the sales team to keep the finance process fast and
 > the customer experience intact.
+
+## Languages
+- **Spanish** — Native or bilingual proficiency
+- **English** — Native or bilingual proficiency
 
 ## Skills (pin the top 3)
 
@@ -101,9 +107,6 @@ Full-time · 1990 – 1998 · Miami, Florida, United States · On-site
   showroom floor. Phone camera is fine. This matters more than the copy.
 - Banner: the dealership exterior or a neutral South Florida image.
 - Custom URL: claim `linkedin.com/in/santosechevarria` if available.
-- Spanish: if he's fluent, add it to Languages and put "Bilingual
-  English/Spanish" in the headline — in the Miami market that's a hiring
-  factor, not a footnote.
 - Education: LinkedIn will nag for it. Leave blank rather than pad it.
 - ⚠️ "Open to work": decide whether he wants the green banner (public, his
   current employer will see it) or recruiters-only. **Recruiters-only is the

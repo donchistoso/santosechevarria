@@ -68,6 +68,7 @@ record drive dealership gross.
 - DMS Operations — CDK, DealerTrack, Reynolds & Reynolds
 - Team Leadership & Mentoring (teams of 15+)
 - Customer Retention & CSI Protection
+- Fully Bilingual — English & Spanish
 
 ## NOTABLE ACHIEVEMENTS & AWARDS
 
