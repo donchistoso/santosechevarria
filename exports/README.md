@@ -4,8 +4,13 @@ Generated deliverables — the files Santos actually sends. Everything here is
 built from the markdown sources in `resume/` and `cover-letters/`; edit the
 source, never the export.
 
-Naming: `Santos_Echevarria_<Variant>_<YYYY-MM>.<ext>`
-e.g. `Santos_Echevarria_FinanceManager_2026-09.pdf`
+**See `WHICH-RESUME.md` for which résumé to send where.**
+
+Naming: `Santos_Echevarria_<Kind>_<Variant>_<YYYY-MM>.pdf`
+- `Resume_FinanceManager_General` — the default résumé
+- `Resume_FinanceManager_LuxuryStores` — high-line/luxury dealerships
+- `Resume_FIDirector` — department-head roles only (see caveat)
+- `CoverLetter_<Employer>` — one per application
 
 ## Building
 ```

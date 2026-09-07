@@ -15,9 +15,9 @@ render() {
   echo "wrote $out"
 }
 
-render resume-finance-manager.html Santos_Echevarria_FinanceManager
-render resume-fi-director.html      Santos_Echevarria_FIDirector
-render resume-the-collection.html   Santos_Echevarria_FIManager_TheCollection
+render resume-finance-manager.html Santos_Echevarria_Resume_FinanceManager_General
+render resume-fi-director.html      Santos_Echevarria_Resume_FIDirector
+render resume-the-collection.html   Santos_Echevarria_Resume_FinanceManager_LuxuryStores
 
 # Cover letters — one per application
 render cover-the-collection.html    Santos_Echevarria_CoverLetter_TheCollection

@@ -3,7 +3,7 @@
 > Tailored to the THE COLLECTION Finance & Insurance Manager posting
 > (`_source/postings/the-collection-fi-manager.md`). Submit with
 > `cover-letters/the-collection-fi-manager.md`.
-> Export: `exports/Santos_Echevarria_FIManager_TheCollection_2026-09.pdf`
+> Export: `exports/Santos_Echevarria_Resume_FinanceManager_LuxuryStores_2026-09.pdf`
 > Render source: `_build/resume-the-collection.html`
 
 ## What differs from the primary FM variant

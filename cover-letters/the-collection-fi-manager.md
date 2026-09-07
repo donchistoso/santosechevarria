@@ -83,7 +83,7 @@ Sincerely,
 - [ ] Replace "Hiring Manager" with a real name if one is findable (LinkedIn,
       the group's leadership page)
 - [ ] Attach the **THE COLLECTION** résumé variant
-      (`exports/Santos_Echevarria_FIManager_TheCollection_2026-09.pdf`)
+      (`exports/Santos_Echevarria_Resume_FinanceManager_LuxuryStores_2026-09.pdf`)
 - [ ] Log the submission date in `job-search/tracker.md`
 
 ## Realistic read

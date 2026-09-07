@@ -6,7 +6,7 @@
 **Full posting + fit analysis:** `_source/postings/echopark-orlando-finance-manager.md`
 **Export:** `exports/Santos_Echevarria_CoverLetter_EchoPark_2026-09.pdf`
 **Résumé to attach:** the general **Finance Manager** variant
-(`Santos_Echevarria_FinanceManager_2026-09.pdf`) — not the luxury-tailored one
+(`Santos_Echevarria_Resume_FinanceManager_General_2026-09.pdf`) — not the luxury-tailored one
 **Status:** Draft — needs Santos's review
 
 ## Why this letter is built the way it is
