@@ -21,3 +21,4 @@ render resume-the-collection.html   Santos_Echevarria_FIManager_TheCollection
 
 # Cover letters — one per application
 render cover-the-collection.html    Santos_Echevarria_CoverLetter_TheCollection
+render cover-echopark-orlando.html  Santos_Echevarria_CoverLetter_EchoPark

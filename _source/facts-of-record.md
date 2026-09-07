@@ -47,6 +47,14 @@ therefore not voluntary — it is a department elimination. This is material:
 - **The search is time-sensitive.** Applications should go out in volume, not
   one at a time.
 
+## Geography
+- Lives in Miami, FL.
+- **Willing to relocate to Orlando** — son, daughter-in-law, and granddaughter
+  live in the Orlando area, and he wants the move independent of any job
+  (confirmed 2026-09-07). This is a genuine pull factor, not a concession, and
+  should be stated plainly in any Orlando-area application.
+- Otherwise Miami-Dade / Broward. Commute radius beyond that unconfirmed.
+
 ## Awards
 - **Nissan Award of Excellence** — 6-time winner, 2020–2026
   - ⚠️ Unresolved: the range spans 7 calendar years but the count is 6.

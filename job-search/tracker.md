@@ -13,3 +13,4 @@ that follow-up never gets dropped.
 **Follow-up rule:** no reply after 5 business days → one call to the store and
 ask for the GM or GSM by name. Dealership hiring runs on the phone, not on
 application portals.
+| 2 | EchoPark Automotive (Sonic) | Automotive Finance Manager / "Finance Coach" | LinkedIn (job 4462064909) | *not yet* | Finance Manager (general) | `echopark-orlando-fi-manager.md` | Hiring Manager | 2026-09-07 | `researching` | **Orlando — relocation, family there.** New store opens Dec 2026, opening-team hire. $90–110K. Used-car one-price model. LinkedIn flags low fit (location). |
