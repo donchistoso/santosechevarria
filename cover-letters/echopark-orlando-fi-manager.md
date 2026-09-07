@@ -36,6 +36,12 @@ don't apply here.
 finance office that works in January. A 30-year operator is a lower-risk
 opening hire than someone learning the job.
 
+## Voice
+Rewritten 2026-09-07 in a warmer register at Juan's direction — contractions,
+first person, some personality ("that's the business"). The earlier formal
+draft read stiff and used third-person self-reference ("this is not a candidate
+who…"). See the Voice section in `TEMPLATE.md`; it applies to all letters.
+
 ## Before he applies
 - [ ] Santos reads it and confirms the family/relocation line is how he wants
       it stated publicly

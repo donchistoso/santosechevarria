@@ -4,9 +4,25 @@ How to use: copy this file to `cover-letters/<dealership-slug>.md`, fill the
 `{{...}}` slots, cut anything that doesn't fit on one page. Never invent a
 number to fill a slot — if there's no real figure, keep the general phrasing.
 
-Tone check: a dealership GM reads this in under a minute, standing up. Short
-paragraphs. Concrete. No corporate throat-clearing. He is a closer with 33
-years of receipts — the letter should sound like that, not like a template.
+## Voice — decided 2026-09-07
+
+**Warm and plainspoken, not formal.** Juan rejected a stiffer draft; this is
+the register from here on.
+
+What that means concretely:
+- **Use contractions.** "I'd," "I've," "won't," "that's." Formal letter English
+  reads like a lawyer wrote it for him.
+- **Talk to the reader, not about yourself in the abstract.** Never "this is
+  not a candidate who will…" — say "I won't be getting homesick in six months."
+- **Let a little personality through.** "That's the business." "Honestly, the
+  sales floor has been as much of my job as the desk." A 30-year F&I manager
+  talks like a person who has closed thousands of deals, not like a memo.
+- **Still concrete and still short.** Warmth is not padding. A dealership GM
+  reads this in under a minute, standing up.
+- **No corporate throat-clearing** and no invented numbers.
+
+He is a closer with thirty years of receipts. The letter should sound like him
+sitting across the desk, not like a template.
 
 ---
 
