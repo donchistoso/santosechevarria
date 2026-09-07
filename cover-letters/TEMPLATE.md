@@ -48,6 +48,17 @@ Santos Echevarria
 
 ---
 
+## Why he's leaving — use this
+
+Bill Seidle's is eliminating the finance department. That is the answer on
+every application and in every interview:
+
+> "The dealership is eliminating the finance department, so I'm looking for my
+> next opportunity after 28 years there."
+
+Blameless, explains the timing, and invites no follow-up. Never use the older
+"the work had become predictable" framing.
+
 ## Slot notes
 
 | Slot | Where to get it |

@@ -5,6 +5,15 @@ Career starts **1996**, not 1990. Brickell Honda was **1996–1998 (2 years)**.
 Total tenure is **30 years**, not 33. All deliverables corrected. If any older
 PDF is circulating, it is wrong — re-export from `_build/`.
 
+## ⚠️ Urgency (2026-09-07)
+Bill Seidle's is **cutting the finance department**. This is now a
+time-sensitive search, not an exploratory one. Two consequences:
+- "Why are you leaving" answer is the department elimination — blameless and
+  strong. The earlier "work became predictable" line is retired.
+- LinkedIn Open-to-work is **public**, not recruiters-only.
+- Applications should go out in volume. The Collection is one; build the
+  target list and work it.
+
 ## State
 Initiative stood up in its own private repo. All four workstreams have a
 first draft or a scaffold: two resume variants, a cover-letter template,

@@ -32,6 +32,21 @@ in a deliverable.
 - Scope: F&I for retail vehicle sales, bank/credit-union financing approvals,
   aftermarket product sales, deal documentation
 
+## Situation (2026-09-07)
+**Bill Seidle's is eliminating the finance department.** Santos's departure is
+therefore not voluntary — it is a department elimination. This is material:
+
+- It is the **best available answer** to "why are you leaving": blameless,
+  removes the "why now" question, and explains urgency without desperation.
+  > "The dealership is eliminating the finance department, so I'm looking for
+  > my next opportunity after 28 years there."
+- It **supersedes** the earlier "the work had become predictable" framing used
+  on the first application. Do not reuse that line.
+- It justified setting LinkedIn "Open to work" to **public** rather than
+  recruiters-only — discretion matters less than inbound volume now.
+- **The search is time-sensitive.** Applications should go out in volume, not
+  one at a time.
+
 ## Awards
 - **Nissan Award of Excellence** — 6-time winner, 2020–2026
   - ⚠️ Unresolved: the range spans 7 calendar years but the count is 6.
