@@ -12,7 +12,8 @@ in a deliverable.
 - LinkedIn: *not yet created — see `linkedin/profile.md`*
 
 ## Employment
-### Bill Seidle Nissan Auto Group — Finance Manager
+### Bill Seidle's Nissan (now Nissan of Doral, Bill Seidle Auto Group) — Finance Manager
+- 10500 NW 12th St, Doral, FL 33172
 - 1998 – Present (~28 years)
 - Supported a sales team of 15
 - Systems used daily: CDK, DealerTrack, Reynolds & Reynolds
@@ -22,6 +23,7 @@ in a deliverable.
   relationships, compliance, sales-staff training and finance hand-off
 
 ### Brickell Honda — Finance Manager
+- 690 SW 8th St, Miami, FL 33130
 - 1990 – 1998 (8 years)
 - Scope: F&I for retail vehicle sales, bank/credit-union financing approvals,
   aftermarket product sales, deal documentation

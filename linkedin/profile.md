@@ -44,10 +44,10 @@ the Miami area.
 
 ## Experience entries
 
-**Finance Manager · Bill Seidle Nissan Auto Group**
-Full-time · 1998 – Present · Miami, Florida, United States · On-site
+**Finance Manager · Bill Seidle's Nissan (Nissan of Doral)**
+Full-time · 1998 – Present · Doral, Florida, United States · On-site
 
-> Finance and insurance for a high-volume Nissan store, supporting a
+> Finance and insurance for a high-volume Nissan store in Doral, supporting a
 > 15-person sales team. Deal structuring and funding, F&I product
 > presentation and sales (extended warranties, GAP, service contracts),
 > lender and bank relationship management, and full regulatory compliance
@@ -90,6 +90,10 @@ Full-time · 1990 – 1998 · Miami, Florida, United States · On-site
 - **Nissan Award of Excellence** — Nissan North America — 6-time recipient
 - **Nissan Security Plus Products, Platinum Level** — Nissan North America —
   awarded annually, 2005–2025
+
+## Verified details
+- Bill Seidle's Nissan / Nissan of Doral — 10500 NW 12th St, Doral, FL 33172
+- Brickell Honda — 690 SW 8th St, Miami, FL 33130
 
 ## Open items before publishing
 
