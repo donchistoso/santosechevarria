@@ -10,15 +10,15 @@ field, once the account is live.
 ## Headline (220 char max)
 
 Primary:
-> Automotive Finance Manager | 33 Years in Dealership F&I | Bilingual English/Spanish | Nissan Award of Excellence, 6× | Miami, FL
+> Automotive Finance Manager | 30 Years in Dealership F&I | Bilingual English/Spanish | Nissan Award of Excellence, 6× | Miami, FL
 
 Alternate (director-leaning):
-> F&I Leader | 33 Years Automotive Finance | Bilingual English/Spanish | Lender Relationships, Compliance & Product Penetration | South Florida
+> F&I Leader | 30 Years Automotive Finance | Bilingual English/Spanish | Lender Relationships, Compliance & Product Penetration | South Florida
 
 ## About
 
-Thirty-three years in South Florida automotive finance — the last 28 at Bill
-Seidle Nissan Auto Group, and eight before that at Brickell Honda.
+Thirty years in South Florida automotive finance — the last 28 at Bill
+Seidle Nissan Auto Group, and two before that at Brickell Honda.
 
 My job is the part of the sale that decides whether the deal funds and whether
 the customer comes back: structuring the deal, presenting the products,
@@ -61,7 +61,7 @@ Full-time · 1998 – Present · Doral, Florida, United States · On-site
 > Security Plus products, awarded annually since 2005.
 
 **Finance Manager · Brickell Honda**
-Full-time · 1990 – 1998 · Miami, Florida, United States · On-site
+Full-time · 1996 – 1998 · Miami, Florida, United States · On-site
 
 > Managed the F&I process for retail vehicle sales — structuring deals that
 > balanced dealership profitability against customer affordability, securing

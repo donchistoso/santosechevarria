@@ -41,7 +41,7 @@ Full posting + fit table: `_source/postings/the-collection-fi-manager.md`
 Santos Echevarria
 Miami, FL · (786) 554-0173 · santosechevarria1@gmail.com
 
-September 5, 2026
+September 7, 2026
 
 Hiring Manager
 THE COLLECTION
@@ -49,11 +49,11 @@ Coral Gables, FL
 
 Dear Hiring Manager,
 
-I am writing to apply for the Finance and Insurance Manager position at THE COLLECTION. I have spent thirty-three years running finance offices in South Florida — twenty-eight of them at Bill Seidle Nissan Auto Group, where I have held the finance desk through changes in ownership, management, and market, and eight before that at Brickell Honda. I would like to bring that record to a group that holds itself to a higher standard.
+I am writing to apply for the Finance and Insurance Manager position at THE COLLECTION. I have spent thirty years running finance offices in South Florida — twenty-eight of them at Bill Seidle Nissan Auto Group, where I have held the finance desk through changes in ownership, management, and market, and two before that at Brickell Honda. I would like to bring that record to a group that holds itself to a higher standard.
 
 What I would bring to each part of the role as you have described it:
 
-- **Finance and insurance operations.** Thirty-three years structuring finance and lease deals — calculating terms, taxes, rates, and fees; presenting warranties, GAP, and protection plans; and securing approvals through lender relationships built across banks, captives, and credit unions over decades, for clients at every point on the credit spectrum and on vehicles from entry models to high-line units. Six-time winner of the Nissan Award of Excellence, and Platinum level in Nissan Security Plus products every year since 2005. Those are the manufacturer’s figures on my performance, not my own.
+- **Finance and insurance operations.** Thirty years structuring finance and lease deals — calculating terms, taxes, rates, and fees; presenting warranties, GAP, and protection plans; and securing approvals through lender relationships built across banks, captives, and credit unions over decades, for clients at every point on the credit spectrum and on vehicles from entry models to high-line units. Six-time winner of the Nissan Award of Excellence, and Platinum level in Nissan Security Plus products every year since 2005. Those are the manufacturer’s figures on my performance, not my own.
 
 - **Customer experience.** My market is one where whether a client comes back — and whether their family does — turns on whether they trusted the person in the finance office. I supported a fifteen-person sales team and trained them on the hand-off into my office so that transition never cost us a client’s confidence. Transparency is not a standard I would be adjusting to; it is much of why I have been kept and promoted across twenty-eight years of changing ownership and management, and why my clients have sent me their families.
 
@@ -74,7 +74,7 @@ Sincerely,
 - [ ] **Santos reads it and confirms it sounds like him.**
 - [ ] Be ready for the luxury-experience question in the interview — it is not
       addressed in writing, so it will come up live. Angle: high-line units at
-      his current store, and thirty-three years of the discipline itself.
+      his current store, and thirty years of the discipline itself.
 - [ ] **Confirm he is genuinely available** for evenings, weekends, holidays,
       and off-site events. The letter asserts it. Don't assert it for him.
 - [ ] Ask about the unclaimed items — CRM, audits, internal reviews. Any "yes"

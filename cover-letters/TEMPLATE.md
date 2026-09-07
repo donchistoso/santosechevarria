@@ -22,7 +22,7 @@ Miami, FL · (786) 554-0173 · santosechevarria1@gmail.com
 Dear {{NAME}},
 
 **Opening — who he is in one line, and why this store.**
-I've spent 33 years in South Florida F&I offices, the last 28 of them at Bill
+I've spent 30 years in South Florida F&I offices, the last 28 of them at Bill
 Seidle Nissan. I'm writing about the {{ROLE}} opening at {{DEALERSHIP}} because
 {{SPECIFIC REASON — brand, volume, ownership group, reputation, growth, a
 person he knows there}}.

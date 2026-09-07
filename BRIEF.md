@@ -1,4 +1,9 @@
-# Brief — 2026-09-05
+# Brief — 2026-09-07
+
+## ⚠️ Timeline correction (2026-09-07)
+Career starts **1996**, not 1990. Brickell Honda was **1996–1998 (2 years)**.
+Total tenure is **30 years**, not 33. All deliverables corrected. If any older
+PDF is circulating, it is wrong — re-export from `_build/`.
 
 ## State
 Initiative stood up in its own private repo. All four workstreams have a

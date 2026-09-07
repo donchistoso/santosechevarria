@@ -16,7 +16,7 @@ Miami, FL  |  (786) 554-0173  |  santosechevarria1@gmail.com
 
 ## PROFESSIONAL SUMMARY
 
-Automotive finance leader with 33+ years running F&I operations at South
+Automotive finance leader with 30 years running F&I operations at South
 Florida franchise dealerships, 28 of them at Bill Seidle Nissan Auto Group.
 Owns the full finance function end to end: deal structuring and funding,
 F&I product strategy and menu presentation, lender portfolio management, and
@@ -49,7 +49,7 @@ record drive dealership gross.
 - Ran daily operations in CDK, DealerTrack, and Reynolds & Reynolds — deal
   files, credit submission, contract processing, and funding follow-up.
 
-**Finance Manager — Brickell Honda** · 1990 – 1998
+**Finance Manager — Brickell Honda** · 1996 – 1998
 
 - Ran the F&I process for retail vehicle sales, structuring deals that held
   dealership gross while staying inside customer affordability.

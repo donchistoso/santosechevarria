@@ -11,7 +11,7 @@ Miami, FL  |  (786) 554-0173  |  santosechevarria1@gmail.com
 
 ## PROFESSIONAL SUMMARY
 
-Results-driven Finance Manager with over 33 years of experience in automotive
+Results-driven Finance Manager with over 30 years of experience in automotive
 dealership finance and insurance (F&I) operations. Proven track record of
 maximizing dealership profitability through strong F&I product penetration,
 compliant deal structuring, and lender relationship management. Skilled at
@@ -47,7 +47,7 @@ as a Finance Manager.
   performance, contributing significantly to overall dealership profitability
   year over year.
 
-**Finance Manager — Brickell Honda** · 1990 – 1998
+**Finance Manager — Brickell Honda** · 1996 – 1998
 
 - Managed the finance and insurance process for retail vehicle sales,
   structuring deals that balanced dealership profitability with customer

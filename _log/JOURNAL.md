@@ -4,6 +4,34 @@ Newest first.
 
 ---
 
+## 2026-09-07 — Timeline corrected; LinkedIn build-out
+
+**Timeline correction (important).** While entering the Brickell Honda role on
+LinkedIn, Santos corrected the dates: Brickell Honda was **1996–1998 (2 years)**,
+not 1990–1998 (8 years). His automotive career therefore starts in **1996**, and
+total tenure is **30 years**, not 33.
+
+Everything claiming 33 years was wrong and has been corrected: all three résumé
+variants, the cover letter, the LinkedIn headline (both options) and About, the
+cover-letter template, and facts-of-record. Also fixed the consequential
+phrasing — "over three decades" and "more than three decades" now overstate a
+30-year career, so those were tightened; the Bill Seidle bullet's "25+ year
+tenure" became "28-year tenure".
+
+**Confirmed:** fully bilingual English/Spanish — now in the LinkedIn headline,
+About, a Languages section, and all three résumés' skills lists.
+
+**Corrected:** Bill Seidle's Nissan is in **Doral** (10500 NW 12th St), now
+trading as Nissan of Doral. Brickell Honda: 690 SW 8th St, Miami. LinkedIn
+location was set to Homestead; changed to Miami.
+
+**LinkedIn progress.** Profile-update broadcasting turned off first (he is still
+employed). Headline, About, and both experience entries entered. Remaining:
+photo, skills, honors, custom URL, Open-to-work (recruiters only), connections.
+
+**Cover letter date** moved to September 7.
+
+---
 ## 2026-09-05 — Initiative stood up
 
 **What happened.** Juan brought the Santos Echevarria career work into its own
@@ -76,7 +104,7 @@ enough that a human overrides a checklist. Three changes from v1:
   Customer Experience, Compliance & Reporting.
 - v1's closing equated a McLaren client with a sedan client. That argues
   against the employer's own premise, so v2 concedes luxury as a *higher* bar
-  and positions the 33 years as everything except that.
+  and positions the 30 years as everything except that.
 
 Newly covered after reading the full text: FCRA by name (also added to both
 résumé variants — Red Flags is an FCRA/FACTA rule, so it's truthful), leasing

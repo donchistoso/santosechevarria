@@ -12,6 +12,10 @@ in a deliverable.
 - LinkedIn: *not yet created — see `linkedin/profile.md`*
 
 ## Employment
+> Timeline corrected 2026-09-07: career begins **1996**, not 1990. Total
+> automotive F&I tenure is **30 years** (1996–2026), not 33. Brickell Honda was
+> 1996–1998 (2 years), not 8. Every deliverable was updated.
+
 ### Bill Seidle's Nissan (now Nissan of Doral, Bill Seidle Auto Group) — Finance Manager
 - 10500 NW 12th St, Doral, FL 33172
 - 1998 – Present (~28 years)
@@ -24,7 +28,7 @@ in a deliverable.
 
 ### Brickell Honda — Finance Manager
 - 690 SW 8th St, Miami, FL 33130
-- 1990 – 1998 (8 years)
+- 1996 – 1998 (8 years)
 - Scope: F&I for retail vehicle sales, bank/credit-union financing approvals,
   aftermarket product sales, deal documentation
 
