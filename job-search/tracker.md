@@ -1,5 +1,9 @@
 # Application tracker
 
+**Filling out a form?** Use `APPLICATION-ANSWERS.md` — every recurring field
+and essay question is pre-answered there. Copy-paste instead of retyping, and
+his answers stay consistent across stores in the same group.
+
 One row per application. Update the date columns as things move — the point is
 that follow-up never gets dropped.
 
